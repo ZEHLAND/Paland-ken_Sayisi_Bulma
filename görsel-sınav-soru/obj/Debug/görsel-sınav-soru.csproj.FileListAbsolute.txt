@@ -1,0 +1,10 @@
+C:\Users\zehol\source\repos\görsel-sınav-soru\bin\Debug\görsel-sınav-soru.exe.config
+C:\Users\zehol\source\repos\görsel-sınav-soru\bin\Debug\görsel-sınav-soru.exe
+C:\Users\zehol\source\repos\görsel-sınav-soru\bin\Debug\görsel-sınav-soru.pdb
+C:\Users\zehol\source\repos\görsel-sınav-soru\obj\Debug\görsel-sınav-soru.csprojAssemblyReference.cache
+C:\Users\zehol\source\repos\görsel-sınav-soru\obj\Debug\görsel_sınav_soru.Form1.resources
+C:\Users\zehol\source\repos\görsel-sınav-soru\obj\Debug\görsel_sınav_soru.Properties.Resources.resources
+C:\Users\zehol\source\repos\görsel-sınav-soru\obj\Debug\görsel-sınav-soru.csproj.GenerateResource.cache
+C:\Users\zehol\source\repos\görsel-sınav-soru\obj\Debug\görsel-sınav-soru.csproj.CoreCompileInputs.cache
+C:\Users\zehol\source\repos\görsel-sınav-soru\obj\Debug\görsel-sınav-soru.exe
+C:\Users\zehol\source\repos\görsel-sınav-soru\obj\Debug\görsel-sınav-soru.pdb
