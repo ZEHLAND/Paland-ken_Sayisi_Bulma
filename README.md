@@ -1,0 +1,1 @@
+# Paland-ken_Sayisi_Bulma
