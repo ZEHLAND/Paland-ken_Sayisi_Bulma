@@ -1,1 +1,1 @@
-# Paland-ken_Sayisi_Bulma
+# Palandoken_Sayisi_Bulma
